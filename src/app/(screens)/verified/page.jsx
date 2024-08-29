@@ -1,10 +1,8 @@
-import BarComponent from '@/components/BarComponent';
 import { Box, Typography } from '@mui/material';
 import Image from 'next/image';
 const VerifiedScreen = () => {
     return (
         <>
-            <BarComponent />
             <Box
             >
                 <Typography

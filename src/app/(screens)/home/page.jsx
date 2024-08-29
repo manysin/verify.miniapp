@@ -1,4 +1,3 @@
-import BarComponent from '@/components/BarComponent';
 import { Box, Button } from '@mui/material';
 import { useRouter } from "next/navigation";
 
@@ -6,7 +5,6 @@ const HomeScreen = () => {
     const router = useRouter()
     return (
         <>
-            <BarComponent />
             <Box
                 sx={{
                     display: 'flex',
