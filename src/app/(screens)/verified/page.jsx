@@ -1,7 +1,7 @@
 const HomeScreen = () => {
     return (
         <div>
-            Home page
+            Verified page
         </div>
     );
 };
